@@ -1,10 +1,10 @@
 
 import './App.css';
-import Login from './components/Login';
+import Stopwatch from './components/StopWatch';
 function App() {
   return (
     <div >
-      <Login/>git 
+      <Stopwatch/>
     </div>
   );
 }
